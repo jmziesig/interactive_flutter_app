@@ -1,16 +1,34 @@
-# interactive_flutter_app
+# Interactive Flutter App
 
-A new Flutter project.
+This is a simple interactive Flutter web app created as part of a course assignment.
 
-## Getting Started
+## Features
+- Web-based Flutter interface
+- Responsive UI
+- Counter functionality
+- Custom title: "Welcome to Janice's App!"
 
-This project is a starting point for a Flutter application.
+## How to Run
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
+- Flutter SDK installed
+- Dart installed (comes with Flutter)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Steps
+1. Clone this repo:
+   ```
+   git clone https://github.com/jmziesig/interactive_flutter_app.git
+   cd interactive_flutter_app
+   ```
+2. Get dependencies:
+   ```
+   flutter pub get
+   ```
+3. Run the app in Chrome:
+   ```
+   flutter run -d chrome
+   ```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Author
+Janice Ziesig  
+Created for [Course Name or Institution]
